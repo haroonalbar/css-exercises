@@ -5,15 +5,15 @@
 .odd{
     background-color: rgb(255, 184, 194);
 }
-#two,#four{
+#two{
     font-size: 36px;
     color: hsl(240, 100%, 50%);
 }
-.odd.three{
+.big24{
     font-size: 24px;
 }
 #four{
-    font-size: 24px;
+    background-color: #15eea6;
     font-weight: bold;
     
 }
