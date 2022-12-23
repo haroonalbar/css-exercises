@@ -1,0 +1,9 @@
+*{
+    font-size: 16px;
+}
+div .text{
+    font-size: 20px;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
