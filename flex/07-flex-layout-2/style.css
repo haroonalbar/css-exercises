@@ -47,6 +47,9 @@ ul{
   margin: 0;
   padding: 16px;
 }
+li{
+  margin-bottom: 16px;
+}
 /* li{
   flex-shrink: 0;
   min-width: 150px;
@@ -82,14 +85,14 @@ a{
 }
 
 .card{
-  flex: auto;
+  /* flex: auto; */
   max-width: 300px;
   margin: 32px;
   padding: 16px;
 }
 
 .footer{
-  text-align: center;
+  /* text-align: center; */
   /* padding: auto 0px; */
   display: flex;
   justify-content: center;
